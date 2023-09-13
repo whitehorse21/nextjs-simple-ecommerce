@@ -1,5 +1,5 @@
 import Styles from "./style.module.css";
-import arrivalBg from "../../../public/assets/images/arrival-bg.png";
+import arrivalBg from "../../../public/assets/images/happy-guy.png";
 
 const Arrival = () => {
   return (

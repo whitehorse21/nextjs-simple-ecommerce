@@ -11,6 +11,7 @@
    z-index: 1;
 }
 .container{
+    padding-left: 30px;
     align-self: center;
     width: 50%;
     z-index: 1;
